@@ -1,4 +1,5 @@
 # nostr - Notes and Other Stuff Transmitted by Relays
+## Modified to meet the needs of ROD blockchain
 
 The simplest open protocol that is able to create a censorship-resistant global "social" network once and for all.
 
